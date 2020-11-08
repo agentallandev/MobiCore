@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    " y ",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "mobicore:tool_rod"
+    },
+    "y":
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "mobicore:tinkering_hammer",
+    "count": 1
+  }
+}

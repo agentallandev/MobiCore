@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mobicore:blocks/nickel_ore_block",
+    "particle": "mobicore:blocks/nickel_ore_block"
+  }
+}

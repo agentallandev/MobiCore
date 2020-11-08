@@ -1,0 +1,39 @@
+{
+  "group": "mobicore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mobicore:bronze_ingot"
+    },
+    "2": {
+      "item": "mobicore:bronze_ingot"
+    },
+    "3": {
+      "item": "mobicore:bronze_ingot"
+    },
+    "4": {
+      "item": "mobicore:bronze_ingot"
+    },
+    "5": {
+      "item": "mobicore:bronze_ingot"
+    },
+    "6": {
+      "item": "mobicore:bronze_ingot"
+    },
+    "7": {
+      "item": "mobicore:bronze_ingot"
+    },
+    "8": {
+      "item": "mobicore:bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "mobicore:bronze_armor_chestplate",
+    "count": 1
+  }
+}

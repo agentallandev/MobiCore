@@ -1,0 +1,30 @@
+{
+  "group": "mobicore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "mobicore:rose_gold_ingot"
+    },
+    "1": {
+      "item": "mobicore:rose_gold_ingot"
+    },
+    "2": {
+      "item": "mobicore:rose_gold_ingot"
+    },
+    "4": {
+      "item": "mobicore:tool_rod"
+    },
+    "7": {
+      "item": "mobicore:tool_rod"
+    }
+  },
+  "result": {
+    "item": "mobicore:rose_gold_pickaxe",
+    "count": 1
+  }
+}

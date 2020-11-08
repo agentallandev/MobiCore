@@ -1,0 +1,21 @@
+{
+  "type": "mobicore:crafting_shaped",
+  "pattern":
+  [
+    "x x",
+    "xxx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "mobicore:obsidian_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "mobicore:obsidian_chestplate",
+    "count": 1
+  }
+}

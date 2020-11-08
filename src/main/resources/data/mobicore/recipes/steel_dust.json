@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "mobicore:iron_dust"
+    }
+  ],
+  "result":
+  {
+    "item": "mobicore:steel_dust",
+    "count": 2
+  }
+}

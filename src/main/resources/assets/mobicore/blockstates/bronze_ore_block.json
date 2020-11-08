@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mobicore:block/bronze_ore_block"
+    }
+  }
+}

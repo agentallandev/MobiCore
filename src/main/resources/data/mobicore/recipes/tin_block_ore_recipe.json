@@ -1,0 +1,13 @@
+{
+  "group": "mobicore",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mobicore:tin_ore_block"
+    }
+  ],
+  "result": {
+    "item": "mobicore:tin_ingot",
+    "count": 9
+  }
+}

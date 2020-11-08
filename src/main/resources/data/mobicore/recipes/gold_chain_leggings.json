@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "x x",
+    "x x"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "mobicore:gold_chain"
+    }
+  },
+  "result":
+  {
+    "item": "mobicore:gold_chain_leggings",
+    "count": 1
+  }
+}

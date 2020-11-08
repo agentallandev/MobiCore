@@ -1,0 +1,9 @@
+{
+  "type": "mobicore:crafting_shaped",
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "result": "mobicore:obsidian_ingot",
+  "experience": 0.0,
+  "cookingtime": 200
+}

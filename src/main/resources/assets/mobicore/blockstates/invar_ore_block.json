@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mobicore:block/invar_ore_block"
+    }
+  }
+}

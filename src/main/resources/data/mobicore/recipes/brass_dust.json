@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mobicore:copper_dust"
+    },
+    {
+      "item": "mobicore:aluminum_dust"
+    }
+  ],
+  "result":
+  {
+    "item": "mobicore:brass_dust",
+    "count": 2
+  }
+}

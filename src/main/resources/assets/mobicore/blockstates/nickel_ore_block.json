@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mobicore:block/nickel_ore_block"
+    }
+  }
+}

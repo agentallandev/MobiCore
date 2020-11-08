@@ -1,0 +1,24 @@
+{
+  "group": "mobicore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "mobicore:aluminum_ingot"
+    },
+    "1": {
+      "item": "mobicore:tool_rod"
+    },
+    "2": {
+      "item": "mobicore:tool_rod"
+    }
+  },
+  "result": {
+    "item": "mobicore:aluminum_shovel",
+    "count": 1
+  }
+}

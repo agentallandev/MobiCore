@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mobicore:block/tin_ore"
+    }
+  }
+}

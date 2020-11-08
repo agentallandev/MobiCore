@@ -1,0 +1,24 @@
+{
+  "group": "mobicore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "mobicore:nickel_ingot"
+    },
+    "1": {
+      "item": "mobicore:nickel_ingot"
+    },
+    "2": {
+      "item": "mobicore:tool_rod"
+    }
+  },
+  "result": {
+    "item": "mobicore:nickel_sword",
+    "count": 1
+  }
+}

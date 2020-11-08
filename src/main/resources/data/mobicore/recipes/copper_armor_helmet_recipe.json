@@ -1,0 +1,29 @@
+{
+  "group": "mobicore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mobicore:copper_ingot"
+    },
+    "1": {
+      "item": "mobicore:copper_ingot"
+    },
+    "2": {
+      "item": "mobicore:copper_ingot"
+    },
+    "3": {
+      "item": "mobicore:copper_ingot"
+    },
+    "5": {
+      "item": "mobicore:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "mobicore:copper_armor_helmet",
+    "count": 1
+  }
+}

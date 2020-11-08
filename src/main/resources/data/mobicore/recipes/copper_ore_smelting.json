@@ -1,0 +1,12 @@
+{
+  "group": "mobicore",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "mobicore:copper_dust"
+  },
+  "result": {
+    "item": "mobicore:copper_ingot"
+  }
+}

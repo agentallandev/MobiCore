@@ -1,0 +1,27 @@
+{
+  "group": "mobicore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mobicore:invar_ingot"
+    },
+    "1": {
+      "item": "mobicore:invar_ingot"
+    },
+    "3": {
+      "item": "mobicore:tool_rod"
+    },
+    "5": {
+      "item": "mobicore:tool_rod"
+    }
+  },
+  "result": {
+    "item": "mobicore:invar_hoe",
+    "count": 1
+  }
+}

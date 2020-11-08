@@ -1,0 +1,25 @@
+{
+  "type": "mobicore:crafting_shaped",
+  "pattern":
+  [
+    " y ",
+    " y ",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "mobicore:tool_rod"
+    },
+    "y":
+    {
+      "item": "mobicore:obsidian_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "mobicore:obsidian_sword",
+    "count": 1
+  }
+}
